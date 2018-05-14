@@ -1,0 +1,32 @@
+Report created: 
+	14/5/2018	0:19:40 
+
+Project name: Hubble Ultra Deep Field OG State.aep
+
+Source files collected to: 
+	C:\Users\Nate\Videos\Hubble Ultra Deep Field OG State folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  110 MB
+
+Collected source files: 
+	E:\Chrome DLs\heic0406a.tif
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Camera Lens Blur
+	
+Effect:  Colorama
+	
+Effect:  Fractal Noise
+	
+
